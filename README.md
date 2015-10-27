@@ -4,22 +4,24 @@
 </p>
 <br/>
 
-# Nombre del proyecto
+# Crack t-4.10
 
 ## Fecha
-* 
+* 2012
 
 ## Descripcion del proyecto
-* 
+* Crack tonellito
 
 ## Herramientas utilizadas
-* 
+* IDA pro (Interactive DisAssambler)
+* VirtulBox
+* Cygnus (Editor hexadecimal)
 
 ## Modelos de PLC, etc.
-* 
+* Provit i440bx
 
 ## Autores
-* 
+* emmanuel156
 
 ## Comentarios
-* 
+* Ninguno
