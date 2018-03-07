@@ -1,0 +1,1 @@
+En la motherboard Q1900B Asrock con Windows 7 se desselecciono "B&R Security Key - Parallel Port" al instalar el PVI Runtime, causaba que la maquina entrara en un loop de reiniciarse al empezar Windows.

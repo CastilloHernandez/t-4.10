@@ -13,15 +13,21 @@
 * Capturas de pantalla
 
 ---
-![2012-09-25 15.42.21.jpg](/Fotos/2012-09-25 15.42.21.jpg)
+![00000550.jpg](/Fotos/00000550.jpg)
 ---
-![2012-09-25 15.42.24.jpg](/Fotos/2012-09-25 15.42.24.jpg)
+![00001033.jpg](/Fotos/00001033.jpg)
 ---
-![2012-09-25 15.42.25.jpg](/Fotos/2012-09-25 15.42.25.jpg)
+![00001046.jpg](/Fotos/00001046.jpg)
 ---
-![2012-09-25 15.57.56.jpg](/Fotos/2012-09-25 15.57.56.jpg)
+![00001961.jpg](/Fotos/00001961.jpg)
 ---
-![2012-09-25 15.58.02.jpg](/Fotos/2012-09-25 15.58.02.jpg)
+![2012-09-25 15.42.24.jpg](/Fotos/2012-09-25%2015.42.24.jpg)
+---
+![2012-09-25 15.42.25.jpg](/Fotos/2012-09-25%2015.42.25.jpg)
+---
+![2012-09-25 15.57.56.jpg](/Fotos/2012-09-25%2015.57.56.jpg)
+---
+![2012-09-25 15.58.02.jpg](/Fotos/2012-09-25%2015.58.02.jpg)
 ---
 ![Pantallazo-1.png](/Fotos/Pantallazo-1.png)
 ---
@@ -75,53 +81,53 @@
 ---
 ![Tonellito9.png](/Fotos/Tonellito9.png)
 ---
-![screenshoot 2012-09-20 14_02.jpg](/Fotos/screenshoot 2012-09-20 14_02.jpg)
+![screenshoot 2012-09-20 14_02.jpg](/Fotos/screenshoot%202012-09-20%2014_02.jpg)
 ---
-![screenshoot 2012-09-20 21_32.jpg](/Fotos/screenshoot 2012-09-20 21_32.jpg)
+![screenshoot 2012-09-20 21_32.jpg](/Fotos/screenshoot%202012-09-20%2021_32.jpg)
 ---
-![screenshoot 2012-09-20 22_02.jpg](/Fotos/screenshoot 2012-09-20 22_02.jpg)
+![screenshoot 2012-09-20 22_02.jpg](/Fotos/screenshoot%202012-09-20%2022_02.jpg)
 ---
-![screenshoot 2012-09-20 22_32.jpg](/Fotos/screenshoot 2012-09-20 22_32.jpg)
+![screenshoot 2012-09-20 22_32.jpg](/Fotos/screenshoot%202012-09-20%2022_32.jpg)
 ---
-![screenshoot 2012-09-20 23_02.jpg](/Fotos/screenshoot 2012-09-20 23_02.jpg)
+![screenshoot 2012-09-20 23_02.jpg](/Fotos/screenshoot%202012-09-20%2023_02.jpg)
 ---
-![screenshoot 2012-09-20 23_32.jpg](/Fotos/screenshoot 2012-09-20 23_32.jpg)
+![screenshoot 2012-09-20 23_32.jpg](/Fotos/screenshoot%202012-09-20%2023_32.jpg)
 ---
-![screenshoot 2012-09-21 00_02.jpg](/Fotos/screenshoot 2012-09-21 00_02.jpg)
+![screenshoot 2012-09-21 00_02.jpg](/Fotos/screenshoot%202012-09-21%2000_02.jpg)
 ---
-![screenshoot 2012-09-21 00_32.jpg](/Fotos/screenshoot 2012-09-21 00_32.jpg)
+![screenshoot 2012-09-21 00_32.jpg](/Fotos/screenshoot%202012-09-21%2000_32.jpg)
 ---
-![screenshoot 2012-09-21 01_03.jpg](/Fotos/screenshoot 2012-09-21 01_03.jpg)
+![screenshoot 2012-09-21 01_03.jpg](/Fotos/screenshoot%202012-09-21%2001_03.jpg)
 ---
-![screenshoot 2012-09-21 01_33.jpg](/Fotos/screenshoot 2012-09-21 01_33.jpg)
+![screenshoot 2012-09-21 01_33.jpg](/Fotos/screenshoot%202012-09-21%2001_33.jpg)
 ---
-![screenshoot 2012-09-21 02_03.jpg](/Fotos/screenshoot 2012-09-21 02_03.jpg)
+![screenshoot 2012-09-21 02_03.jpg](/Fotos/screenshoot%202012-09-21%2002_03.jpg)
 ---
-![screenshoot 2012-09-21 02_33.jpg](/Fotos/screenshoot 2012-09-21 02_33.jpg)
+![screenshoot 2012-09-21 02_33.jpg](/Fotos/screenshoot%202012-09-21%2002_33.jpg)
 ---
-![screenshoot 2012-09-21 03_03.jpg](/Fotos/screenshoot 2012-09-21 03_03.jpg)
+![screenshoot 2012-09-21 03_03.jpg](/Fotos/screenshoot%202012-09-21%2003_03.jpg)
 ---
-![screenshoot 2012-09-21 03_33.jpg](/Fotos/screenshoot 2012-09-21 03_33.jpg)
+![screenshoot 2012-09-21 03_33.jpg](/Fotos/screenshoot%202012-09-21%2003_33.jpg)
 ---
-![screenshoot 2012-09-21 04_03.jpg](/Fotos/screenshoot 2012-09-21 04_03.jpg)
+![screenshoot 2012-09-21 04_03.jpg](/Fotos/screenshoot%202012-09-21%2004_03.jpg)
 ---
-![screenshoot 2012-09-21 04_33.jpg](/Fotos/screenshoot 2012-09-21 04_33.jpg)
+![screenshoot 2012-09-21 04_33.jpg](/Fotos/screenshoot%202012-09-21%2004_33.jpg)
 ---
-![screenshoot 2012-09-21 05_03.jpg](/Fotos/screenshoot 2012-09-21 05_03.jpg)
+![screenshoot 2012-09-21 05_03.jpg](/Fotos/screenshoot%202012-09-21%2005_03.jpg)
 ---
-![screenshoot 2012-09-21 05_33.jpg](/Fotos/screenshoot 2012-09-21 05_33.jpg)
+![screenshoot 2012-09-21 05_33.jpg](/Fotos/screenshoot%202012-09-21%2005_33.jpg)
 ---
-![screenshoot 2012-09-21 06_03.jpg](/Fotos/screenshoot 2012-09-21 06_03.jpg)
+![screenshoot 2012-09-21 06_03.jpg](/Fotos/screenshoot%202012-09-21%2006_03.jpg)
 ---
-![screenshoot 2012-09-21 06_33.jpg](/Fotos/screenshoot 2012-09-21 06_33.jpg)
+![screenshoot 2012-09-21 06_33.jpg](/Fotos/screenshoot%202012-09-21%2006_33.jpg)
 ---
-![screenshoot 2012-09-21 07_03.jpg](/Fotos/screenshoot 2012-09-21 07_03.jpg)
+![screenshoot 2012-09-21 07_03.jpg](/Fotos/screenshoot%202012-09-21%2007_03.jpg)
 ---
-![screenshoot 2012-09-21 07_33.jpg](/Fotos/screenshoot 2012-09-21 07_33.jpg)
+![screenshoot 2012-09-21 07_33.jpg](/Fotos/screenshoot%202012-09-21%2007_33.jpg)
 ---
-![screenshoot 2012-09-21 08_03.jpg](/Fotos/screenshoot 2012-09-21 08_03.jpg)
+![screenshoot 2012-09-21 08_03.jpg](/Fotos/screenshoot%202012-09-21%2008_03.jpg)
 ---
-![screenshoot 2012-09-21 10_50.jpg](/Fotos/screenshoot 2012-09-21 10_50.jpg)
+![screenshoot 2012-09-21 10_50.jpg](/Fotos/screenshoot%202012-09-21%2010_50.jpg)
 ---
 ![screenshot.png](/Fotos/screenshot.png)
 ---
