@@ -1,1 +1,16 @@
+deshabilitar protector de pantalla
+instalar "b&r pvi"
+copiar archivos dentro de "cur" a "c:\windows\cursors\"
+copiar y registrar archivos dentro de "ocx" a "c:\windows\system32\" (No reemplazarlos)
+copiar y registrar archivos dentro de "dll" a "c:\windows\system32\" (No reemplazarlos)
+con el editor hxd parchar "c:\brautomation\bin\pviman.exe"
+	cambiar valor en 1b770 cambiarlo de 00 a 10
+copiar archivos de programa de la carpeta "ver412" a "c:\"
+modificar "c:\vbapp\wash\wash.ini"
+	cambiar TouchScreen de 0 a 1 para habilitar las funciones de touchscreen
+ocultar barra de inicio	
+crear acceso directo para que arranque automaticamente
+	
+
+
 En la motherboard Q1900B Asrock con Windows 7 se desselecciono "B&R Security Key - Parallel Port" al instalar el PVI Runtime, causaba que la maquina entrara en un loop de reiniciarse al empezar Windows.
